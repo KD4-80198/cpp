@@ -118,7 +118,7 @@ int main()
 
     cout<< "***********************"<< endl;
     
-    address a2("Rashmi", "Shaniwarpeth", "Karad", 413002);
+    address a2("Amisha", "Shaniwarpeth", "Karad", 413002);
     a2.display();
     cout<< "***********************"<< endl;
     // cout << "value of t1.min" << t1.min << endl;
@@ -131,3 +131,10 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+
+
